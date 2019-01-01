@@ -7,7 +7,6 @@ elsif int % 5 == 0
     puts 
     "Buzz"
 elsif int % (3 && 5) == 0
-    puts  
-    "FizzBuzz"
+    puts "FizzBuzz"
   end
 end
