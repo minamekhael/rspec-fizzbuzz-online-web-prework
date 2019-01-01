@@ -5,7 +5,7 @@ if int % 3 == 0
 elsif int % 5 == 0 
     puts 
     "Buzz"
- if int % 15 == 0
+ if int % 3 && 5 == 0
     puts  
     "FizzBuzz"
   end
