@@ -1,6 +1,6 @@
 def fizzbuzz(int)
 
-if int % 6 == 0 
+if int % 3 == 0 
     puts  
     "Fizz"
 elsif int % 5 == 0 
