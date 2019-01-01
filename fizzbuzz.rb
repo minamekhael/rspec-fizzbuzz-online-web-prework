@@ -6,7 +6,7 @@ if int % 3 == 0
 elsif int % 5 == 0 
     puts 
     "Buzz"
-elsif int % (15) == 0
+elsif int % (30) == 0
     puts 
     "FizzBuzz"
   end
